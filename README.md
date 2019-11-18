@@ -1,1 +1,1 @@
-openjdk-8-jdk
+repo2docker Test
